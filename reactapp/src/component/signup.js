@@ -54,7 +54,6 @@ function Signup() {
         </div>
     );
 }
-
 const myStyle = {
     backgroundImage:
         "url('https://drive.google.com/uc?export=download&id=1uKvZY6-os_GEjvrWVEr4h0D4AtN2r1LB')",
